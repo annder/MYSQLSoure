@@ -106,7 +106,7 @@ show databases;
         id int,
         name varchar(20)
     )
-``
+```
 
 上面的`varchar`是指字段的符号，而一个符号必定要指定一个长度，那么20就是它长度。
 
